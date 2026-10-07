@@ -1,0 +1,198 @@
+host_id	state	n_A	n_B	order
+GCA_000145985.1	B-only	0	1	Sulfolobales
+GCA_000270325.1	B-only	0	1	Caldarchaeales
+GCA_000508305.1	B-only	0	1	Sulfolobales
+GCA_000960885.1	B-only	0	1	Thermoproteales
+GCA_001516585.1	B-only	0	2	Thermoproteales
+GCA_001563335.1	A-only	1	0	Thorarchaeales
+GCA_001563875.1	B-only	0	1	Nanosalinales
+GCA_001564275.1	A+B coexist	1	1	Halobacteriales
+GCA_001593865.1	B-only	0	2	B24
+GCA_001775995.1	A-only	1	0	RBG-16-48-13
+GCA_001940655.1	B-only	0	1	Sigynarchaeales
+GCA_002009975.1	B-only	0	1	Thermococcales
+GCA_002011155.2	B-only	0	1	Mnemosynellales
+GCA_002254595.1	B-only	0	2	Thermofilales
+GCA_002490245.1	A+B coexist	1	1	Bathyarchaeales
+GCA_002844335.1	A-only	2	0	Halobacteriales
+GCA_002898355.1	B-only	0	1	Caldarchaeales
+GCA_002898395.1	B-only	0	1	Caldarchaeales
+GCA_003019595.1	B-only	0	1	Marsarchaeales
+GCA_003021085.1	A+B coexist	1	1	Halobacteriales
+GCA_003021175.1	A+B coexist	1	1	Halobacteriales
+GCA_003034855.1	A-only	1	0	Methanonatronarchaeales
+GCA_003116855.1	B-only	0	2	Sulfolobales
+GCA_003164815.1	A+B coexist	1	1	Nitrososphaerales
+GCA_003345555.1	A-only	1	0	Thorarchaeales
+GCA_003650785.1	B-only	0	1	Thermofilales
+GCA_003650925.1	B-only	0	2	QMSL01
+GCA_003661125.1	A-only	1	0	Alkanophagales
+GCA_003662645.1	B-only	0	1	Bathyarchaeales
+GCA_004524365.1	A+B coexist	1	1	Sigynarchaeales
+GCA_004524445.1	A-only	1	0	Thorarchaeales
+GCA_004524535.1	B-only	0	1	Sigynarchaeales
+GCA_005191415.1	A+B coexist	1	1	Helarchaeales
+GCA_005223125.1	B-only	0	1	Sigynarchaeales
+GCA_005954745.1	A+B coexist	1	1	Halobacteriales
+GCA_007118975.1	A+B coexist	1	1	Halobacteriales
+GCA_007122875.1	A+B coexist	1	1	Halobacteriales
+GCA_011364925.1	A+B coexist	1	2	Sigynarchaeales
+GCA_011605725.1	B-only	0	2	EX4484-205
+GCA_014729055.1	A+B coexist	1	1	Sigynarchaeales
+GCA_014729935.1	A+B coexist	1	1	Sigynarchaeales
+GCA_014730165.1	A+B coexist	1	1	Sigynarchaeales
+GCA_014730275.1	A-only	1	0	Thorarchaeales
+GCA_015520425.1	B-only	0	1	Caldarchaeales
+GCA_015520475.1	B-only	0	1	Bathyarchaeales
+GCA_015520705.1	B-only	0	2	Thermococcales
+GCA_015522745.1	B-only	0	1	GW2011-AR5
+GCA_016207465.1	B-only	0	1	JACQPP01
+GCA_016839445.1	A-only	1	0	Thorarchaeales
+GCA_016839585.1	B-only	0	1	Sigynarchaeales
+GCA_016839765.1	B-only	0	1	Sigynarchaeales
+GCA_016840065.1	B-only	0	1	Hermodarchaeales
+GCA_016840135.1	B-only	0	1	Hermodarchaeales
+GCA_016840425.1	B-only	0	1	Wukongarchaeales
+GCA_016840485.1	B-only	0	1	Baldrarchaeales
+GCA_016840695.1	A+B coexist	1	1	Sigynarchaeales
+GCA_016932935.1	A+B coexist	1	1	Sigynarchaeales
+GCA_016933055.1	A-only	1	0	Sigynarchaeales
+GCA_017601265.1	B-only	0	3	EX4484-205
+GCA_018304605.1	B-only	0	1	GW2011-AR5
+GCA_018335335.1	A-only	2	0	Thorarchaeales
+GCA_018396535.1	B-only	0	2	B24
+GCA_018396695.1	B-only	0	1	TCS64
+GCA_018396725.1	B-only	0	1	40CM-2-53-6
+GCA_018396755.1	B-only	0	1	B24
+GCA_018650285.1	A-only	1	0	Poseidoniales
+GCA_018920315.1	B-only	0	1	GW2011-AR5
+GCA_019056805.1	B-only	0	1	Baldrarchaeales
+GCA_019057475.1	A-only	1	0	Thorarchaeales
+GCA_019058015.1	A+B coexist	1	1	Sigynarchaeales
+GCA_019058135.1	A+B coexist	1	2	Sigynarchaeales
+GCA_019058165.1	B-only	0	1	JABLTI01
+GCA_019058315.1	A-only	1	0	Helarchaeales
+GCA_019058445.1	A+B coexist	1	1	Sigynarchaeales
+GCA_019058495.1	B-only	0	1	Atabeyarchaeales
+GCA_019323665.1	A-only	1	0	Woesearchaeales
+GCA_019704295.1	B-only	0	1	Sulfolobales
+GCA_019721035.1	B-only	0	2	Sysuiplasmatales
+GCA_020637435.1	B-only	0	1	Woesearchaeales
+GCA_021162845.1	B-only	0	3	QMSL01
+GCA_021163245.1	B-only	0	2	Thermofilales
+GCA_021323375.2	B-only	0	3	Caldarchaeales
+GCA_021324115.1	B-only	0	1	Conexivisphaerales
+GCA_021324265.1	B-only	0	1	Gearchaeales
+GCA_021498085.1	B-only	0	1	JABLTI01
+GCA_021806165.1	B-only	0	1	Sysuiplasmatales
+GCA_022865215.1	B-only	0	1	Nanosalinales
+GCA_023008585.1	A+B coexist	1	1	Halobacteriales
+GCA_023266955.1	B-only	0	1	Nitrososphaerales
+GCA_023269735.1	B-only	0	1	Thermofilales
+GCA_024275415.1	A-only	1	0	Thorarchaeales
+GCA_024276825.1	A-only	1	0	Thorarchaeales
+GCA_025041175.1	B-only	0	1	Halobacteriales
+GCA_025059045.1	A+B coexist	1	1	Bathyarchaeales
+GCA_025059075.1	B-only	0	1	Sulfolobales
+GCA_025517465.1	A-only	2	0	Halobacteriales
+GCA_025839675.1	A-only	1	0	Sigynarchaeales
+GCA_027002815.1	B-only	0	1	Thermoproteales
+GCA_027046265.1	B-only	0	1	Sulfolobales
+GCA_028275105.1	A+B coexist	1	1	Halobacteriales
+GCA_028716125.1	A-only	1	0	JAQUQK01
+GCA_028821815.1	A-only	1	0	Poseidoniales
+GCA_029258735.1	B-only	0	1	Thermofilales
+GCA_029259245.1	B-only	0	1	Thermococcales
+GCA_029775965.1	B-only	0	1	Conexivisphaerales
+GCA_029838175.1	A+B coexist	1	1	Sigynarchaeales
+GCA_029855935.1	A+B coexist	2	1	Thorarchaeales
+GCA_029856295.1	A+B coexist	1	1	Sigynarchaeales
+GCA_029856435.1	B-only	0	1	Jordiarchaeales
+GCA_030587475.2	A+B coexist	1	1	Sigynarchaeales
+GCA_030610785.1	A-only	1	0	Sigynarchaeales
+GCA_030612005.1	A-only	1	0	Thorarchaeales
+GCA_030612265.1	A-only	1	0	Sigynarchaeales
+GCA_030734185.1	A-only	1	0	Halobacteriales
+GCA_030750015.1	B-only	0	1	JASMDC01
+GCA_031852275.1	A+B coexist	2	1	Halobacteriales
+GCA_034190325.1	A+B coexist	1	1	UBA287
+GCA_034190395.1	A+B coexist	1	1	Halobacteriales
+GCA_035269625.1	A+B coexist	1	1	Halobacteriales
+GCA_035531115.1	A+B coexist	1	1	Helarchaeales
+GCA_035622335.1	B-only	0	1	Nitrososphaerales
+GCA_036626315.1	B-only	0	1	Halobacteriales
+GCA_037308085.1	B-only	0	1	Atabeyarchaeales
+GCA_037310415.1	B-only	0	1	Atabeyarchaeales
+GCA_037386725.1	A+B coexist	1	2	Sigynarchaeales
+GCA_038046745.1	B-only	0	1	Hydrothermarchaeales
+GCA_038730885.1	B-only	0	2	EX4484-205
+GCA_038819355.1	B-only	0	1	Jordiarchaeales
+GCA_038820475.1	B-only	0	1	Jordiarchaeales
+GCA_038825165.1	A-only	1	0	Thorarchaeales
+GCA_038825615.1	B-only	0	1	Jordiarchaeales
+GCA_038840055.1	B-only	0	1	CALHIW01
+GCA_038840355.1	A+B coexist	1	1	EX4484-205
+GCA_038845265.1	A+B coexist	1	1	Caldarchaeales
+GCA_038846965.1	A+B coexist	1	2	Bathyarchaeales
+GCA_038852135.1	B-only	0	1	40CM-2-53-6
+GCA_038852285.1	A-only	1	0	40CM-2-53-6
+GCA_038866625.1	B-only	0	1	Hadarchaeales
+GCA_038869515.1	B-only	0	1	JACQPP01
+GCA_038881315.1	B-only	0	1	Sysuiplasmatales
+GCA_038883485.1	B-only	0	1	B24
+GCA_041479945.1	B-only	0	2	EX4484-205
+GCA_041862235.1	A-only	1	0	Caldarchaeales
+GCA_046538535.1	A+B coexist	1	1	Hadarchaeales
+GCA_048882045.1	A-only	1	0	Thorarchaeales
+GCA_048886645.1	B-only	0	1	Wukongarchaeales
+GCA_048887225.1	B-only	0	1	Sigynarchaeales
+GCA_048938295.1	B-only	0	1	Hermodarchaeales
+GCA_052584815.1	A-only	1	0	Thorarchaeales
+GCA_052584985.1	B-only	0	1	Asgardarchaeales
+GCA_052626505.1	A+B coexist	1	1	Sigynarchaeales
+GCA_054381345.1	A+B coexist	1	1	Helarchaeales
+GCA_054381495.1	A-only	1	0	Thorarchaeales
+GCA_054383535.1	A+B coexist	1	1	Helarchaeales
+GCA_054383595.1	A-only	1	0	Helarchaeales
+GCA_054384275.1	A+B coexist	1	1	Sigynarchaeales
+GCA_054384595.1	A+B coexist	1	1	Sigynarchaeales
+GCA_054385715.1	B-only	0	1	Jordiarchaeales
+GCA_054386615.1	A+B coexist	1	1	Sigynarchaeales
+GCA_054390655.1	A-only	1	0	Thorarchaeales
+GCA_963582685.1	A-only	1	0	Poseidoniales
+GCF_000007305.1	B-only	0	2	Thermococcales
+GCF_000018305.1	B-only	0	2	Thermoproteales
+GCF_000025325.1	A+B coexist	3	2	Halobacteriales
+GCF_000148385.1	B-only	0	1	Thermoproteales
+GCF_000237865.1	A+B coexist	1	1	Halobacteriales
+GCF_000306765.2	A-only	2	0	Halobacteriales
+GCF_000334895.1	A+B coexist	1	2	Halobacteriales
+GCF_000403645.1	A+B coexist	2	1	Halobacteriales
+GCF_001485535.1	A-only	1	0	Halobacteriales
+GCF_003369835.1	A+B coexist	1	1	Halobacteriales
+GCF_014647115.1	A-only	1	0	Halobacteriales
+GCF_014647475.1	A+B coexist	1	1	Halobacteriales
+GCF_017094485.1	A-only	1	0	Halobacteriales
+GCF_019693215.1	B-only	0	1	Halobacteriales
+GCF_021083305.1	A+B coexist	1	1	Halobacteriales
+GCF_024227995.1	A+B coexist	1	1	Halobacteriales
+GCF_029338295.1	A+B coexist	2	1	Halobacteriales
+GCF_030287405.1	A+B coexist	1	1	Halobacteriales
+GCF_036429475.1	A+B coexist	1	1	Halobacteriales
+GOMC.bin.12150	A+B coexist	1	1	Halobacteriales
+GOMC.bin.1438	A-only	1	0	Thorarchaeales
+GOMC.bin.16739	B-only	0	2	Thermofilales
+GOMC.bin.2724	B-only	0	2	Thermofilales
+GOMC.bin.2843	A+B coexist	1	2	Bathyarchaeales
+GOMC.bin.2847	B-only	0	1	Thermofilales
+GOMC.bin.2857	B-only	0	1	Thermofilales
+GOMC.bin.2866	B-only	0	2	QMSL01
+GOMC.bin.2875	B-only	0	2	QMSL01
+GOMC.bin.2900	B-only	0	2	Thermofilales
+GOMC.bin.3217	B-only	0	1	EX4484-217-1
+GOMC.bin.4029	B-only	0	2	GW2011-AR5
+GOMC.bin.4077	B-only	0	1	B33-G15
+GOMC.bin.5642	B-only	0	4	Bathyarchaeales
+GOMC.bin.7984	A-only	1	0	Helarchaeales
+GOMC.bin.9181	A+B coexist	1	1	Sigynarchaeales
+GOMC.bin.9202	A+B coexist	3	1	Halobacteriales

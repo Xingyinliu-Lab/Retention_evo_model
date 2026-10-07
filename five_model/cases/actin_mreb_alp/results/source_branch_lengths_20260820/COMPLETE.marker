@@ -1,0 +1,4 @@
+status=complete
+trees=6
+models=5
+branch_scale=source_branch_lengths

@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "source": "main_gene_tree_only",
+  "n_candidate_splits": 204,
+  "enters_state_likelihood": false
+}

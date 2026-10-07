@@ -1,0 +1,65 @@
+{
+  "schema_version": "composition_corrected_five_model_freeze_v1",
+  "input_file": "six_tree_tip_states.json",
+  "sha256": "ecacaf25122cf9f60be5f7ece4747d5a466cf5a5d74755ee0a9049f6ba1414a3",
+  "state_encoding": {
+    "dALP-only": 0,
+    "coexist": 1,
+    "cALP-only": 2
+  },
+  "root_semantics": "gtdb_projected",
+  "n_trees": 6,
+  "trees": [
+    {
+      "tree": "archaea1338_addcore_gtdb_rooted",
+      "n_tips": 162,
+      "dALP_only": 85,
+      "coexist": 8,
+      "cALP_only": 69,
+      "binary": true
+    },
+    {
+      "tree": "archaea1338_astral64_gtdb_rooted",
+      "n_tips": 162,
+      "dALP_only": 85,
+      "coexist": 8,
+      "cALP_only": 69,
+      "binary": true
+    },
+    {
+      "tree": "archaea1338_denovo_gtdb_rooted",
+      "n_tips": 162,
+      "dALP_only": 85,
+      "coexist": 8,
+      "cALP_only": 69,
+      "binary": true
+    },
+    {
+      "tree": "asgard971_addcore_gtdb_rooted",
+      "n_tips": 445,
+      "dALP_only": 7,
+      "coexist": 91,
+      "cALP_only": 347,
+      "binary": false,
+      "note": "one trichotomous root retained"
+    },
+    {
+      "tree": "asgard971_astral89_gtdb_rooted",
+      "n_tips": 445,
+      "dALP_only": 7,
+      "coexist": 91,
+      "cALP_only": 347,
+      "binary": false,
+      "note": "one trichotomous root retained"
+    },
+    {
+      "tree": "gtdb_r226_expanded",
+      "n_tips": 1253,
+      "dALP_only": 813,
+      "coexist": 92,
+      "cALP_only": 348,
+      "binary": false,
+      "note": "GTDB-projected polytomies retained"
+    }
+  ]
+}

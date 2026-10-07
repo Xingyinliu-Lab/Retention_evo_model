@@ -1,0 +1,3 @@
+case_id	transition_group	posterior_mean	posterior_variance	posterior_sd	log_likelihood_recomputed	fit_log_likelihood	log_likelihood_abs_difference
+archaea1338__OG0001243	coexist_mediated	62.25319008422048	49.8842008861781	7.0628748315525245	-148.26153163901157	-148.26153163901157	0.0
+archaea1338__OG0001243	direct_endpoint	14.325294938795233	11.507499939019302	3.392270617008511	-148.26153163901157	-148.26153163901157	0.0

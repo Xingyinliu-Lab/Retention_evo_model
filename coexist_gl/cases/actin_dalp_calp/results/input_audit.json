@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "family_id": "actin_current584",
+  "species_tips": 461,
+  "gene_tips": 568,
+  "single_hosts": 354,
+  "coexist_hosts": 107,
+  "species_tree_sha256": "8d022f305c8b12d4737b242e325852684b459ce735e3c8acd017a45dfc87d461",
+  "gene_tree_sha256": "95b0594581df4365c3974e3f9a1ec573af673c7213a21e28c621436f2cf1d5ff",
+  "genes_sha256": "23f059d182931e15a52cd1c394793750917bd087dc35f0562ab59869840a9651",
+  "edge_policy": "unit"
+}

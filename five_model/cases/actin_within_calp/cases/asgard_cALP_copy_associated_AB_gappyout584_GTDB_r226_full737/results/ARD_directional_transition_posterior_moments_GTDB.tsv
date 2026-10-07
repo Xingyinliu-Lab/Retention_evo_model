@@ -1,0 +1,7 @@
+case_id	transition	posterior_mean	posterior_variance	posterior_sd
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	A-only->A+B coexist	44.61946024798635	36.503114188235486	6.041780713352272
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	A+B coexist->A-only	57.80996997053004	22.951141772864503	4.790734992969711
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	A+B coexist->B-only	16.77274441086259	4.628298521917411	2.151348070842422
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	B-only->A+B coexist	17.088265966606286	2.547579128986399	1.5961137581596117
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	A-only->B-only	3.894615557859045	2.2498503919147574	1.4999501298092406
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	B-only->A-only	1.8074979440712013	1.0075504709069112	1.0037681360288895

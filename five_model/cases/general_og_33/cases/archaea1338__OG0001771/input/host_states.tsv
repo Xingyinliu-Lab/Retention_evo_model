@@ -1,0 +1,143 @@
+host_id	state	n_A	n_B	order
+CRR476095_bin.3	A+B coexist	1	1	Methanobacteriales
+ERR2027894_bin.22	A+B coexist	1	1	Methanobacteriales
+ERR2027902_bin.36	A+B coexist	1	2	Methanobacteriales
+ERR2282092_bin.34	A-only	2	0	Methanomassiliicoccales
+ERR4283445_bin.66	A-only	1	0	Methanomassiliicoccales
+GCA_000166095.1	A+B coexist	1	1	Methanobacteriales
+GCA_000306725.1	A-only	1	0	Methanosarcinales
+GCA_000309865.1	B-only	0	1	Methanobacteriales
+GCA_001412355.1	A+B coexist	1	1	Methanomicrobiales
+GCA_001507955.1	A+B coexist	1	1	Methanobacteriales
+GCA_001563335.1	B-only	0	1	Thorarchaeales
+GCA_001766815.1	B-only	0	1	Syntropharchaeales
+GCA_001914405.1	A-only	1	0	Methanonatronarchaeales
+GCA_002010065.2	A+B coexist	1	1	Hydrothermarchaeales
+GCA_002010195.1	A-only	1	0	Archaeoglobales
+GCA_002010215.1	A-only	1	0	Archaeoglobales
+GCA_002010305.1	A+B coexist	1	1	Archaeoglobales
+GCA_002067095.1	A+B coexist	1	1	Methanomicrobiales
+GCA_002067795.1	A-only	1	0	Methanotrichales
+GCA_002067865.1	A-only	1	0	Methanomassiliicoccales
+GCA_002494725.1	A-only	1	0	Archaeoglobales
+GCA_002496395.1	A+B coexist	1	1	Methanomicrobiales
+GCA_002497075.1	A-only	1	0	Methanomassiliicoccales
+GCA_002499905.1	A+B coexist	1	1	Methanomicrobiales
+GCA_002503135.1	B-only	0	1	Methanomicrobiales
+GCA_002503885.1	A+B coexist	1	1	Methanomicrobiales
+GCA_002506015.1	A-only	1	0	Methanosarcinales
+GCA_002508545.1	A-only	1	0	Methanomassiliicoccales
+GCA_002839545.1	B-only	0	1	Methanosarcinales
+GCA_002897955.1	B-only	0	1	Hydrothermarchaeales
+GCA_003104905.1	B-only	0	1	Methanosarcinales
+GCA_003133625.1	B-only	0	1	Bathyarchaeales
+GCA_003135935.1	A-only	1	0	Methanomassiliicoccales
+GCA_003194445.1	A-only	1	0	Methanosarcinales
+GCA_003345555.1	B-only	0	1	Thorarchaeales
+GCA_003695745.1	A-only	1	0	Hydrothermarchaeales
+GCA_004193545.1	B-only	0	1	Methanosarcinales
+GCA_004212075.1	B-only	0	1	Methanoliparales
+GCA_004524535.1	B-only	0	1	Sigynarchaeales
+GCA_005191425.1	B-only	0	1	Helarchaeales
+GCA_005223125.1	B-only	0	1	Sigynarchaeales
+GCA_011048835.1	A+B coexist	1	1	Methanomicrobiales
+GCA_011364925.1	B-only	0	1	Sigynarchaeales
+GCA_013152845.1	B-only	0	1	Hydrothermarchaeales
+GCA_013166775.1	B-only	0	1	Heimdallarchaeales
+GCA_013331375.1	A+B coexist	1	1	Methanosarcinales
+GCA_013331615.1	A-only	1	0	Woesearchaeales
+GCA_013388835.1	B-only	0	1	Thorarchaeales
+GCA_014728035.1	B-only	0	1	Thorarchaeales
+GCA_014730165.1	B-only	0	1	Sigynarchaeales
+GCA_014859725.1	A+B coexist	1	1	Methanosarcinales
+GCA_015523685.1	A+B coexist	1	1	Archaeoglobales
+GCA_015660865.1	A+B coexist	1	1	Methanomicrobiales
+GCA_015661555.1	A-only	1	0	Methanococcales
+GCA_016839425.1	B-only	0	1	Sigynarchaeales
+GCA_016839445.1	B-only	0	1	Thorarchaeales
+GCA_016839585.1	B-only	0	1	Sigynarchaeales
+GCA_016840425.1	B-only	0	1	Wukongarchaeales
+GCA_016841265.1	A+B coexist	1	1	Methanosarcinales
+GCA_016841485.1	B-only	0	2	Methanomicrobiales
+GCA_016926735.1	B-only	0	1	Sigynarchaeales
+GCA_016937345.1	A+B coexist	1	1	Methanomicrobiales
+GCA_018263395.1	B-only	0	1	JAANXF01
+GCA_018335335.1	B-only	0	1	Thorarchaeales
+GCA_019057385.1	B-only	0	1	Borrarchaeales
+GCA_019057475.1	B-only	0	1	Thorarchaeales
+GCA_019058315.1	B-only	0	1	Helarchaeales
+GCA_019058445.1	B-only	0	1	Sigynarchaeales
+GCA_019429385.1	A+B coexist	1	1	Methanosarcinales
+GCA_019894715.1	B-only	0	1	Sigynarchaeales
+GCA_020056305.1	A-only	1	0	Anstonellales
+GCA_020356005.1	B-only	0	1	JAEHCK01
+GCA_021108405.1	B-only	0	1	Methanosarcinales
+GCA_021498125.1	B-only	0	1	Thorarchaeales
+GCA_021513695.1	B-only	0	1	Heimdallarchaeales
+GCA_021513715.1	B-only	0	1	Heimdallarchaeales
+GCA_021814005.1	A-only	1	0	Anstonellales
+GCA_023008585.1	A-only	1	0	Halobacteriales
+GCA_023229165.1	A-only	1	0	Methanotrichales
+GCA_024275415.1	B-only	0	2	Thorarchaeales
+GCA_024276825.1	B-only	0	1	Thorarchaeales
+GCA_024281315.1	B-only	0	1	JAJSAE01
+GCA_026394375.1	A-only	1	0	Methanomassiliicoccales
+GCA_027031765.1	B-only	0	1	Thorarchaeales
+GCA_027051165.1	A-only	1	0	JALTZZ01
+GCA_027051265.1	A-only	1	0	JALTZZ01
+GCA_028678665.1	A+B coexist	1	2	Methanomicrobiales
+GCA_029210805.1	B-only	0	1	Thorarchaeales
+GCA_029838175.1	B-only	0	1	Sigynarchaeales
+GCA_029855935.1	B-only	0	1	Thorarchaeales
+GCA_029907705.1	A+B coexist	1	1	Methanomicrobiales
+GCA_030018435.1	B-only	0	1	UBA148
+GCA_030019205.1	A+B coexist	1	1	Methanomicrobiales
+GCA_030610785.1	B-only	0	1	Sigynarchaeales
+GCA_030611265.1	B-only	0	1	Methanosarcinales
+GCA_030612005.1	B-only	0	1	Thorarchaeales
+GCA_030627385.1	A-only	1	0	Methanosarcinales
+GCA_030673205.1	B-only	0	1	JAGHBH01
+GCA_030734185.1	A-only	1	0	Halobacteriales
+GCA_034190545.1	A-only	1	0	Halorutilales
+GCA_035624185.1	B-only	0	1	Bog-38
+GCA_036444275.1	B-only	0	1	Hydrothermarchaeales
+GCA_037386725.1	B-only	0	1	Sigynarchaeales
+GCA_037442745.1	A-only	1	0	DYHY01
+GCA_037443105.1	A+B coexist	1	1	JAWCLZ01
+GCA_038825165.1	B-only	0	1	Thorarchaeales
+GCA_040776445.1	A+B coexist	1	1	Methanomicrobiales
+GCA_046546175.1	A-only	1	0	Methanosarcinales
+GCA_048886645.1	B-only	0	1	Wukongarchaeales
+GCA_048887225.1	B-only	0	1	Sigynarchaeales
+GCA_052584815.1	B-only	0	1	Thorarchaeales
+GCA_052626505.1	B-only	0	1	Sigynarchaeales
+GCA_054381475.1	B-only	0	1	Helarchaeales
+GCA_054381495.1	B-only	0	1	Thorarchaeales
+GCA_054383535.1	B-only	0	1	Helarchaeales
+GCA_054383595.1	B-only	0	1	Helarchaeales
+GCA_054384275.1	B-only	0	1	Sigynarchaeales
+GCA_054384595.1	B-only	0	1	Sigynarchaeales
+GCA_054388035.1	B-only	0	1	Heimdallarchaeales
+GCA_905171695.1	B-only	0	1	Methanosarcinales
+GCA_905202485.1	A-only	1	0	Methanomassiliicoccales
+GCA_963677995.1	B-only	0	1	Methanomicrobiales
+GCA_964297655.1	A-only	1	0	Methanomassiliicoccales
+GCA_974486395.1	A+B coexist	1	1	Methanosarcinales
+GCF_000008645.1	A+B coexist	1	1	Methanobacteriales
+GCF_000016125.1	A+B coexist	1	1	Methanococcales
+GCF_000023985.1	A+B coexist	1	1	Methanococcales
+GCF_000214415.1	A+B coexist	1	1	Methanococcales
+GCF_000237865.1	A-only	1	0	Halobacteriales
+GCF_000275865.1	A+B coexist	1	1	Methanomicrobiales
+GCF_000306765.2	A-only	1	0	Halobacteriales
+GCF_000308215.1	A-only	1	0	Methanomassiliicoccales
+GCF_000327485.1	A+B coexist	1	1	Methanomicrobiales
+GCF_000711905.1	A-only	1	0	Methanosarcinales_A
+GCF_004102725.1	A+B coexist	1	1	Methanomicrobiales
+GCF_021023085.1	A-only	1	0	Methanocellales
+GCF_946463545.1	A+B coexist	1	1	Methanococcales
+GOMC.bin.1438	B-only	0	1	Thorarchaeales
+GOMC.bin.707	B-only	0	2	Methanosarcinales
+GOMC.bin.7887	B-only	0	1	Hydrothermarchaeales
+GOMC.bin.831	A+B coexist	1	1	Methanomicrobiales
+GOMC.bin.874	A+B coexist	1	1	Hydrothermarchaeales

@@ -1,0 +1,2 @@
+case_id	universe	branch_scale	coexist_mediated_mean	direct_endpoint_mean	coexist_mediated_fraction	direct_endpoint_fraction	expected_total	log_likelihood_recomputed	fit_log_likelihood	log_likelihood_abs_difference
+archaea1338__OG0001785	Archaea1338_de_novo	source_branch_lengths	54.10942030173279	15.19138317764875	0.7807906630957243	0.2192093369042757	69.30080347938154	-111.80829314326355	-111.80829314326348	7.105427357601002e-14

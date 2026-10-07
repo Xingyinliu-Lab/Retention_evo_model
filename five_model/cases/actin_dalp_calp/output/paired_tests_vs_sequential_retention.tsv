@@ -1,0 +1,9 @@
+branch_scale	benchmark	comparison_model	n_paired_trees	benchmark_better_trees	comparison_better_trees	ties	median_AIC_difference_other_minus_benchmark	exact_p_two_sided	exact_p_benchmark_better_one_sided
+source_branch_lengths	Sequential retention (coexist middle)	Ancestral coexist divergence	6	6	0	0	58.09689680010331	0.03125	0.015625
+source_branch_lengths	Sequential retention (coexist middle)	cALP-middle adjacency	6	6	0	0	44.53026021223335	0.03125	0.015625
+source_branch_lengths	Sequential retention (coexist middle)	dALP-middle adjacency	6	6	0	0	42.37951189535136	0.03125	0.015625
+source_branch_lengths	Sequential retention (coexist middle)	ARD unrestricted	6	5	1	0	3.809514208168679	0.4375	0.21875
+unit_topology	Sequential retention (coexist middle)	Ancestral coexist divergence	6	6	0	0	32.47808986282212	0.03125	0.015625
+unit_topology	Sequential retention (coexist middle)	dALP-middle adjacency	6	6	0	0	30.69577966729898	0.03125	0.015625
+unit_topology	Sequential retention (coexist middle)	cALP-middle adjacency	6	5	1	0	24.084682306167508	0.0625	0.03125
+unit_topology	Sequential retention (coexist middle)	ARD unrestricted	6	3	3	0	-0.004353029563290534	0.6875	0.71875

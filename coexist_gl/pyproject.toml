@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coexist-gl"
+version = "0.1.0"
+description = "Coexistence-aware collapsed-DT gain-loss model on unit-edge species trees"
+requires-python = ">=3.10"
+dependencies = [
+  "biopython>=1.80",
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "PyYAML>=6.0",
+]
+
+[project.scripts]
+coexist-gl = "coexist_gl.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

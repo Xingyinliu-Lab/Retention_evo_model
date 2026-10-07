@@ -1,0 +1,29 @@
+{
+  "case_id": "archaea1338__OG0000323",
+  "og_id": "OG0000323",
+  "n_genes": 406,
+  "n_hosts": 300,
+  "n_single": 236,
+  "n_coexist": 64,
+  "host_closure": "PASS",
+  "readiness": "READY",
+  "schema": "coexist_gl_final33_v2",
+  "files": {
+    "species_tree.nwk": {
+      "bytes": 10147,
+      "sha256": "29050a784731d4d580221c13ddf9c4aaab880ab68d41f218f2617a8653e91060"
+    },
+    "gene_tree.nwk": {
+      "bytes": 17380,
+      "sha256": "d8b49ff7b0323dc6cc035501eabb7666a0c7f7ed8e3ce158ec31da637e6caf2d"
+    },
+    "genes.tsv": {
+      "bytes": 17364,
+      "sha256": "bbd10b65af4fd469c03a79a7e2589db17f24177c5da12d1b161469987af1b912"
+    },
+    "family.yaml": {
+      "bytes": 510,
+      "sha256": "57879133697060ae8f236708f5967fa8587202e72470f79ab755b0ec2b977a6f"
+    }
+  }
+}

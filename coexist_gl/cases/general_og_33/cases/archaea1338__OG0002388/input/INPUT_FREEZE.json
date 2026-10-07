@@ -1,0 +1,37 @@
+{
+  "case_id": "archaea1338__OG0002388",
+  "og_id": "OG0002388",
+  "evidence_class": "supported",
+  "n_genes": 156,
+  "n_hosts": 127,
+  "n_single": 101,
+  "n_coexist": 26,
+  "species_tree_tips": 127,
+  "host_closure": "PASS",
+  "readiness": "READY",
+  "schema": "coexist_gl_31_current_AU_v1",
+  "legacy_AB_included": false,
+  "ALE_used_as_model_input": false,
+  "files": {
+    "species_tree.nwk": {
+      "bytes": 4303,
+      "sha256": "457195db3ccde79f4d212e6c0a75f644b812d743cd1da040e2a0204737e27c9c"
+    },
+    "gene_tree.nwk": {
+      "bytes": 6684,
+      "sha256": "d734c9688ae270ecc56874a92561e2feaddbfd1feae354b6f2bae9e4f471abcc"
+    },
+    "genes.tsv": {
+      "bytes": 6722,
+      "sha256": "77deb0fc36159306365ce7885c65544fc6102141ff67a80e1accf65247e3ddaf"
+    },
+    "family.yaml": {
+      "bytes": 519,
+      "sha256": "1a941d26743323280f47b498465c991748d293ef6035bdbbb8f97bebedf27972"
+    },
+    "ALE_INPUT_AUDIT.tsv": {
+      "bytes": 268,
+      "sha256": "97adedb563366ba6ec1a4dc384fa53c44f5b0c48ddecffbdd46cc1fb74131367"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+status=complete
+backbone=584_gappyout_richLG
+placement_queries_total=2038
+placement_queries_in_Asgard_cALP_scope=974
+gene_tips=1191
+hosts=737
+A_only=149
+coexist=225
+B_only=363
+unit_five_model=complete
+unit_ARD=complete
+source_branch_five_model=complete
+source_branch_ARD=complete
+figures=7_pdf_and_7_png
+old_automated1_outputs_overwritten=false

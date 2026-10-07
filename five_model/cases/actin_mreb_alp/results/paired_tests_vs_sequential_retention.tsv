@@ -1,0 +1,5 @@
+benchmark	comparison_model	n_trees	retention_better_trees	comparison_better_trees	median_AIC_other_minus_retention	exact_p_two_sided
+adjacency_coexist_middle	ARD_unrestricted	6	2	4	-18.755134996799356	0.15625
+adjacency_coexist_middle	adjacency_ALP_middle	6	3	3	27.46423270448605	0.4375
+adjacency_coexist_middle	adjacency_M_middle	6	5	1	19.872194120597655	0.15625
+adjacency_coexist_middle	ancestral_coexistence_strict	6	6	0	74.51433010905826	0.03125

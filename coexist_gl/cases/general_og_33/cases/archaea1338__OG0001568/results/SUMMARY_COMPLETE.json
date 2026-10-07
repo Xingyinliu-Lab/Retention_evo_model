@@ -1,0 +1,9 @@
+{
+  "status": "COMPLETE",
+  "contract_version": "coexist_gl_v2_no_ale_unit_edge",
+  "config_sha256": "59406d9c678ceaaf1294933f4d3914f7438f380115e9bed55c50e7ce83adad87",
+  "species_tree_sha256": "c7e2d3a636c68079aee860a2164111a3c7ea7a5fb525c4e78a0d98d65ca51c2d",
+  "gene_tree_sha256": "4527063f1222542ab11efbf72e4a725957258ac46a46c79bb2d252e066a2cb08",
+  "genes_sha256": "8b595190fa71029392bad22d9022d3d0222916aa6812d25dac322de0083077cd",
+  "summary_sha256": "da81ffc2ffa02a8a855d83ab168fc0d67e4dbc374e5c685f62d1a5e34c95bec0"
+}

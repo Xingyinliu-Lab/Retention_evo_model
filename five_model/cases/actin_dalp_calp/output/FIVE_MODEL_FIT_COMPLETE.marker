@@ -1,0 +1,6 @@
+status=complete
+root_prior=stationary_for_adjacency_and_ARD
+models=5
+trees=6
+branch_scales=2
+rows=60

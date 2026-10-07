@@ -1,0 +1,12 @@
+{
+  "case_id": "archaea1338__OG0000566",
+  "universe": "Archaea1338_de_novo",
+  "og_id": "OG0000566",
+  "AB_definition": "topology_first_outcome_blind_fastmode",
+  "species_tree": "GTDB_r226 ALE-matched induced-tree logic from Stage08 prepare_ale_unit.py; exact canonical accession mapping; unary lengths collapsed; internal labels removed; multifurcations resolved with zero-length edges",
+  "source_polytomies": 0,
+  "zero_length_refinements": 0,
+  "n_hosts": 272,
+  "species_tree_sha256": "d62289639557c46b676b956fb390df7f0a424df2782b21a2f65a6e455a2256dc",
+  "host_states_sha256": "c5490112625a418947284ec4aa74b7c1789fd7d398f0703b48868740361c5948"
+}

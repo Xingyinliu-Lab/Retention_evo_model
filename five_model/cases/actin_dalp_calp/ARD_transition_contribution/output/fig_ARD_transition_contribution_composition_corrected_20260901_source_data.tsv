@@ -1,0 +1,25 @@
+tree	tree_label	branch_scale	branch_label	stable	history_identifiability	route	contribution_percent	route_x	history_key	jitter_offset	x_plot
+archaea1338_addcore_gtdb_rooted	Archaea1338 add-core	unit_topology	unit topology	TRUE	stable	Via coexistence	83.5265371487342	1	Archaea1338 add-core.unit topology	0.0190909090909091	1.01909090909091
+archaea1338_addcore_gtdb_rooted	Archaea1338 add-core	source_branch_lengths	source branches	TRUE	stable	Via coexistence	89.2119533592921	1	Archaea1338 add-core.source branches	0.0572727272727272	1.05727272727273
+archaea1338_astral64_gtdb_rooted	Archaea1338 ASTRAL64	unit_topology	unit topology	TRUE	stable	Via coexistence	89.1721683447337	1	Archaea1338 ASTRAL64.unit topology	0.171818181818182	1.17181818181818
+archaea1338_astral64_gtdb_rooted	Archaea1338 ASTRAL64	source_branch_lengths	source branches	FALSE	boundary_saturated	Via coexistence	99.9999988057286	1	Archaea1338 ASTRAL64.source branches	0.21	1.21
+archaea1338_denovo_gtdb_rooted	Archaea1338 de novo	unit_topology	unit topology	TRUE	stable	Via coexistence	46.4799780496118	1	Archaea1338 de novo.unit topology	0.0954545454545454	1.09545454545455
+archaea1338_denovo_gtdb_rooted	Archaea1338 de novo	source_branch_lengths	source branches	TRUE	stable	Via coexistence	49.9550435632676	1	Archaea1338 de novo.source branches	0.133636363636364	1.13363636363636
+asgard971_addcore_gtdb_rooted	Asgard971 add-core	unit_topology	unit topology	TRUE	stable	Via coexistence	99.9660783342492	1	Asgard971 add-core.unit topology	-0.133636363636364	0.866363636363636
+asgard971_addcore_gtdb_rooted	Asgard971 add-core	source_branch_lengths	source branches	FALSE	high_turnover	Via coexistence	99.9996100114338	1	Asgard971 add-core.source branches	-0.0954545454545455	0.904545454545455
+asgard971_astral89_gtdb_rooted	Asgard971 ASTRAL89	unit_topology	unit topology	TRUE	stable	Via coexistence	99.9653211965982	1	Asgard971 ASTRAL89.unit topology	-0.0572727272727273	0.942727272727273
+asgard971_astral89_gtdb_rooted	Asgard971 ASTRAL89	source_branch_lengths	source branches	FALSE	boundary_saturated	Via coexistence	99.9983865386217	1	Asgard971 ASTRAL89.source branches	-0.0190909090909091	0.980909090909091
+gtdb_r226_expanded	GTDB r226	unit_topology	unit topology	TRUE	stable	Via coexistence	89.645345646394	1	GTDB r226.unit topology	-0.21	0.79
+gtdb_r226_expanded	GTDB r226	source_branch_lengths	source branches	TRUE	stable	Via coexistence	93.5116571982222	1	GTDB r226.source branches	-0.171818181818182	0.828181818181818
+archaea1338_addcore_gtdb_rooted	Archaea1338 add-core	unit_topology	unit topology	TRUE	stable	Direct transition	16.4734628512658	2	Archaea1338 add-core.unit topology	0.0190909090909091	2.01909090909091
+archaea1338_addcore_gtdb_rooted	Archaea1338 add-core	source_branch_lengths	source branches	TRUE	stable	Direct transition	10.7880466407079	2	Archaea1338 add-core.source branches	0.0572727272727272	2.05727272727273
+archaea1338_astral64_gtdb_rooted	Archaea1338 ASTRAL64	unit_topology	unit topology	TRUE	stable	Direct transition	10.8278316552662	2	Archaea1338 ASTRAL64.unit topology	0.171818181818182	2.17181818181818
+archaea1338_astral64_gtdb_rooted	Archaea1338 ASTRAL64	source_branch_lengths	source branches	FALSE	boundary_saturated	Direct transition	1.19427142261333e-06	2	Archaea1338 ASTRAL64.source branches	0.21	2.21
+archaea1338_denovo_gtdb_rooted	Archaea1338 de novo	unit_topology	unit topology	TRUE	stable	Direct transition	53.5200219503882	2	Archaea1338 de novo.unit topology	0.0954545454545454	2.09545454545455
+archaea1338_denovo_gtdb_rooted	Archaea1338 de novo	source_branch_lengths	source branches	TRUE	stable	Direct transition	50.0449564367324	2	Archaea1338 de novo.source branches	0.133636363636364	2.13363636363636
+asgard971_addcore_gtdb_rooted	Asgard971 add-core	unit_topology	unit topology	TRUE	stable	Direct transition	0.0339216657507956	2	Asgard971 add-core.unit topology	-0.133636363636364	1.86636363636364
+asgard971_addcore_gtdb_rooted	Asgard971 add-core	source_branch_lengths	source branches	FALSE	high_turnover	Direct transition	0.000389988566199091	2	Asgard971 add-core.source branches	-0.0954545454545455	1.90454545454545
+asgard971_astral89_gtdb_rooted	Asgard971 ASTRAL89	unit_topology	unit topology	TRUE	stable	Direct transition	0.0346788034017677	2	Asgard971 ASTRAL89.unit topology	-0.0572727272727273	1.94272727272727
+asgard971_astral89_gtdb_rooted	Asgard971 ASTRAL89	source_branch_lengths	source branches	FALSE	boundary_saturated	Direct transition	0.0016134613783372	2	Asgard971 ASTRAL89.source branches	-0.0190909090909091	1.98090909090909
+gtdb_r226_expanded	GTDB r226	unit_topology	unit topology	TRUE	stable	Direct transition	10.354654353606	2	GTDB r226.unit topology	-0.21	1.79
+gtdb_r226_expanded	GTDB r226	source_branch_lengths	source branches	TRUE	stable	Direct transition	6.48834280177782	2	GTDB r226.source branches	-0.171818181818182	1.82818181818182

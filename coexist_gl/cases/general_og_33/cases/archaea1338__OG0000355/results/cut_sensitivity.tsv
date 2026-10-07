@@ -1,0 +1,2 @@
+family_id	species_cut_id	n_blocks	null_r	null_A	null_kappa	free_A	free_r	free_kappa	null_logL	free_logL	delta_logL	LRT_stat	p_persistence_one_sided	interpretation_scope
+archaea1338__OG0000355__AU31_ALE_matched	full	248	1.0	0.547499719038097	NA	0.0726198640220025	77.68235444649268	NA	-129.5603095249931	-72.32043326776066	57.23987625723244	114.47975251446488	5.115277131281122e-27	primary_full_species_tree

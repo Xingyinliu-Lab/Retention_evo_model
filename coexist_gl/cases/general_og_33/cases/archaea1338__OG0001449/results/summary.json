@@ -1,0 +1,71 @@
+{
+  "contract_version": "coexist_gl_v2_no_ale_unit_edge",
+  "software_version": "0.1.0",
+  "family_id": "archaea1338__OG0001449__AU31_ALE_matched",
+  "applicability": {
+    "status": "FIT_ELIGIBLE",
+    "n_hosts": 134,
+    "n_single": 86,
+    "n_coexist": 48,
+    "coexist_fraction": 0.3582089552238806,
+    "coexist_observed": true
+  },
+  "status": "COMPLETE",
+  "clustering": {
+    "fitch_steps_observed": 27,
+    "permutation_reps": 9999,
+    "p_cluster": 0.0001,
+    "seed": 20260827,
+    "status": "PHYLOGENETIC_CLUSTERING_SUPPORTED"
+  },
+  "fit": {
+    "model": "coexistence_aware_collapsed_dt_gain_loss",
+    "branch_length_policy": "unit",
+    "null": {
+      "r": 1.0,
+      "A": 1.1122832512029857,
+      "normalized_G": 1.1122832512029857,
+      "normalized_L": 1.0,
+      "log_likelihood": -87.37818329461707
+    },
+    "free": {
+      "r": 15.010922103232677,
+      "A": 0.32117826327149324,
+      "normalized_G": 0.32117826327149324,
+      "normalized_L": 1.0,
+      "log_likelihood": -79.25911929163273
+    },
+    "delta_log_likelihood": 8.119064002984345,
+    "lrt_statistic": 16.23812800596869,
+    "p_persistence_one_sided": 2.7929260280892704e-05,
+    "r_profile_low": 6.359573367528893,
+    "r_profile_high": 56.96904293877614,
+    "status": "COEXIST_PERSISTENCE_SUPPORTED",
+    "expected_macro_edge_transitions": {
+      "expected_S_to_S": 163.96355550427694,
+      "expected_S_to_C_gain": 23.488700607907937,
+      "expected_C_to_S_resolution": 14.801408754746102,
+      "expected_C_to_C_persistence": 63.74633513306905,
+      "expected_changed_edges": 38.290109362654036,
+      "expected_total_edges": 266.0
+    }
+  },
+  "outputs": {
+    "coexistence_test.tsv": {
+      "bytes": 644,
+      "sha256": "facda0a8d54321903348d5ae0d5305cae636c50a69dea1bc0db125acdac8f53f"
+    },
+    "likelihood_surface.tsv": {
+      "bytes": 16958,
+      "sha256": "77e865821389f25c5ea22f7959b4e09376d4157f638df956454501f29f445c43"
+    },
+    "event_expectations_surface.tsv": {
+      "bytes": 22904,
+      "sha256": "a3649b021fddca0dde55b6aac743918bd00e34848236343298b06918b2746719"
+    },
+    "expected_macro_edge_transitions.tsv": {
+      "bytes": 350,
+      "sha256": "ff9faae395333ab163befe89450ba54fa08b5d8e3d87cd3fd1faf4c62a50410c"
+    }
+  }
+}

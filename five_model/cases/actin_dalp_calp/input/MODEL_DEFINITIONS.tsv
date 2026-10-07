@@ -1,0 +1,6 @@
+model_id	paper_label	root_prior	free_rates_k	allowed_transitions	interpretation
+ARD_unrestricted	ARD unrestricted	stationary(Q)	6	dALP-only<->coexist; coexist<->cALP-only; dALP-only<->cALP-only	Unrestricted directed three-state benchmark
+adjacency_coexist_middle	Sequential retention	stationary(Q)	4	dALP-only<->coexist<->cALP-only	Only adjacent changes through coexistence; no direct single-state switch
+adjacency_cALP_middle	cALP-middle adjacency	stationary(Q)	4	dALP-only<->cALP-only<->coexist	Alternative adjacency graph with cALP-only as middle state
+adjacency_dALP_middle	dALP-middle adjacency	stationary(Q)	4	cALP-only<->dALP-only<->coexist	Alternative adjacency graph with dALP-only as middle state
+ancestral_coexist_divergence	Ancestral coexist divergence	fixed coexist	2	coexist->dALP-only; coexist->cALP-only	Strict irreversible divergence from a coexist root

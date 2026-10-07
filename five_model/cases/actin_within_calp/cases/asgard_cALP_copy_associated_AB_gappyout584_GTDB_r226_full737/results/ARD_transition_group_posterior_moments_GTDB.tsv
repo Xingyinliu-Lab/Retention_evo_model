@@ -1,0 +1,3 @@
+case_id	transition_group	posterior_mean	posterior_variance	posterior_sd	log_likelihood_recomputed	fit_log_likelihood	log_likelihood_abs_difference
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	coexist_mediated	136.29044059421366	62.97347770593357	7.935583009831953	-372.1225473755407	-372.12254737554036	3.410605131648481e-13
+asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737	direct_endpoint	5.702113500509161	3.2961268440582594	1.8155238483859857	-372.1225473755407	-372.12254737554036	3.410605131648481e-13

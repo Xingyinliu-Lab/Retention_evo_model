@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "family_id": "archaea1338__OG0000762__AU31_ALE_matched",
+  "species_tips": 236,
+  "gene_tips": 282,
+  "single_hosts": 195,
+  "coexist_hosts": 41,
+  "species_tree_sha256": "ca36aebb4aefa56c7232add9ce1a9fc8715993b7f6fc85e6f6fd31043749b1c1",
+  "gene_tree_sha256": "ef563215fba0a7b77a3f7a37bcabcb44bcfac2861826649958a78551223fb518",
+  "genes_sha256": "955160125bb66e185932ca85f1eab401c872245fb89426b34c9af085ec7139c4",
+  "edge_policy": "unit"
+}

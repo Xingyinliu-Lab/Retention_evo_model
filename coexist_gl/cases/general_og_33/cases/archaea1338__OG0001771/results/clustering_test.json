@@ -1,0 +1,7 @@
+{
+  "fitch_steps_observed": 18,
+  "permutation_reps": 9999,
+  "p_cluster": 0.0001,
+  "seed": 20260827,
+  "status": "PHYLOGENETIC_CLUSTERING_SUPPORTED"
+}

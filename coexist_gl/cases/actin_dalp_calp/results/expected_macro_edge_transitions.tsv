@@ -1,0 +1,2 @@
+family_id	species_cut_id	r	A	expected_S_to_S	expected_S_to_C_gain	expected_C_to_S_resolution	expected_C_to_C_persistence	expected_changed_edges	expected_total_edges
+actin_current584	full	60.79060490760361	0.04314541044967364	679.3014561842659	12.74054313212732	19.71972750898288	208.2382731746242	32.4602706411102	920.0000000000002

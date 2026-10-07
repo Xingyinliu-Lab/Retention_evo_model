@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "contract_version": "coexist_gl_v2_no_ale_unit_edge",
+  "source_gene_tree_sha256": "244f93b8c2b66096622b012b5603090a55fe2def3779b373bf6b5fb2f789fcb3",
+  "source_species_tree_sha256": "8d022f305c8b12d4737b242e325852684b459ce735e3c8acd017a45dfc87d461",
+  "source_mapping_sha256": "d39fc5a1a1eafa599f3c351dcc2010ddc3bf472b7eb66b588c49122d98845866",
+  "source_gene_tips": 584,
+  "excluded_context_tips": 16,
+  "excluded_context_tip_ids": [
+    "sp|O93400|ACTB_XENLA",
+    "sp|P02572|ACT2_DROME",
+    "sp|P11426|ACT_ENTH1",
+    "sp|P12432|ACT1_TRYBB",
+    "sp|P53498|ACT_CHLRE",
+    "sp|P60010|ACT_YEAST",
+    "sp|P60709|ACTB_HUMAN",
+    "sp|Q4Z1L3|ACT1_PLABA",
+    "tr|A0A132NN04|A0A132NN04_GIAIN",
+    "tr|A0A1Q9CGX8|A0A1Q9CGX8_SYMMI",
+    "tr|A2FA04|A2FA04_TRIV3",
+    "tr|B1N621|B1N621_ENTH1",
+    "tr|B8CFV4|B8CFV4_THAPS",
+    "tr|D7LI19|D7LI19_ARALL",
+    "tr|F1A175|F1A175_DICPU",
+    "tr|I7MG63|I7MG63_TETTS"
+  ],
+  "formal_gene_tips": 568,
+  "formal_hosts": 461,
+  "gene_tree_unrooted_binary": true,
+  "species_tree_rooted_binary": true,
+  "host_sets_identical": true,
+  "branch_length_policy": "unit_ignore_input_lengths",
+  "frozen_files": {
+    "species_tree.nwk": {
+      "bytes": 16620,
+      "sha256": "8d022f305c8b12d4737b242e325852684b459ce735e3c8acd017a45dfc87d461"
+    },
+    "gene_tree.nwk": {
+      "bytes": 27558,
+      "sha256": "95b0594581df4365c3974e3f9a1ec573af673c7213a21e28c621436f2cf1d5ff"
+    },
+    "genes.tsv": {
+      "bytes": 24961,
+      "sha256": "23f059d182931e15a52cd1c394793750917bd087dc35f0562ab59869840a9651"
+    },
+    "family.yaml": {
+      "bytes": 515,
+      "sha256": "ed1aa1b6f04846d76f4f2e69c64364fef8a887a6357d74cefec7229b8be7e8b9"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "case_id": "archaea1338__OG0000323",
+  "universe": "Archaea1338_de_novo",
+  "og_id": "OG0000323",
+  "AB_definition": "formal_major_supported_bipartition_v2: SH-aLRT>=80, UFBoot>=95, minor tip fraction>=0.15, minor host fraction>=0.10 and >=10 hosts, >=2 orders per side; ranked without MAG-state outcomes",
+  "formal_SH_aLRT": 93.3,
+  "formal_UFBoot": 95.0,
+  "n_genes": 406,
+  "n_hosts": 300,
+  "n_A_only": 107,
+  "n_coexist": 23,
+  "n_B_only": 170,
+  "n_coexist_orders": 9,
+  "formal_tree_sha256": "df42f16b451951ef7af262542f0dca62aae3592a336548f4ae1739aa7ea9824c",
+  "species_tree_sha256": "29050a784731d4d580221c13ddf9c4aaab880ab68d41f218f2617a8653e91060"
+}

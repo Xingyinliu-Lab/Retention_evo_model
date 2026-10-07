@@ -1,0 +1,2 @@
+case_id	universe	tree	n_hosts	n_A_only	n_coexist	n_B_only	coexist_mediated_mean	direct_endpoint_mean	coexist_mediated_fraction	direct_endpoint_fraction	expected_total	expected_total_per_branch
+archaea1338__OG0001565	Archaea1338_de_novo	GTDB_r226	130	19	9	102	15.236806269361598	1.5279853861862591	0.9088574783641518	0.09114252163584827	16.764791655547857	0.06497981261840255

@@ -1,0 +1,2 @@
+family_id	species_cut_id	r	A	expected_S_to_S	expected_S_to_C_gain	expected_C_to_S_resolution	expected_C_to_C_persistence	expected_changed_edges	expected_total_edges
+archaea1338__OG0001449__AU31_ALE_matched	full	15.010922103232677	0.32117826327149324	163.96355550427694	23.488700607907937	14.801408754746102	63.74633513306905	38.290109362654036	266.0

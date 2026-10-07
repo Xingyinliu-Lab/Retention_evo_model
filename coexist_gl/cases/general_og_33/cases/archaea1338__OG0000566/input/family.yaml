@@ -1,0 +1,25 @@
+schema_version: coexist_gl_family_v2
+family_id: archaea1338__OG0000566__AU31_ALE_matched
+species_tree:
+  path: species_tree.nwk
+  rooted: true
+  edge_policy: unit
+gene_tree:
+  path: gene_tree.nwk
+  rootedness: unrooted
+gene_metadata:
+  path: genes.tsv
+  include_column: include
+copy_state:
+  single: 1
+  coexist_min: 2
+clustering_test:
+  permutations: 9999
+  seed: 20260827
+fit:
+  r_lower_bound: 1.0
+  starts: 6
+  seed: 20260827
+surface:
+  r_values: [1, 1.25, 1.5, 2, 4, 8, 16, 32, 64, 128]
+  A_values: auto_around_mle

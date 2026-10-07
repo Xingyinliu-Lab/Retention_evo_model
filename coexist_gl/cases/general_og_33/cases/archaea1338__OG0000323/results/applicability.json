@@ -1,0 +1,8 @@
+{
+  "status": "FIT_ELIGIBLE",
+  "n_hosts": 300,
+  "n_single": 236,
+  "n_coexist": 64,
+  "coexist_fraction": 0.21333333333333335,
+  "coexist_observed": true
+}

@@ -1,0 +1,11 @@
+{
+  "case_id": "asgard_cALP_copy_associated_AB_gappyout584_GTDB_r226_full737",
+  "universe": "frozen_6769_actin_sequences__1191_Asgard_cALP_copy_associated_AB",
+  "AB_definition": "copy_associated_AB_v2_orderCV",
+  "gene_topology": "584_gappyout_backbone_plus_2038_EPA_query_placements_pruned_to_1191_Asgard_cALP",
+  "species_tree": "GTDB_r226_exact_737_MAG_induced",
+  "n_hosts": 737,
+  "A-only": 149,
+  "A+B coexist": 225,
+  "B-only": 363
+}

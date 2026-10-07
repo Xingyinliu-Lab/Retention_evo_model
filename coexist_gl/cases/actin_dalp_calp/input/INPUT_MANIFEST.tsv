@@ -1,0 +1,6 @@
+file	bytes	sha256	role
+INPUT_FREEZE.json	2339	6b355295bc28f2baafc778d7c2bd234be4e01218542dd28612af524981a3ae1d	source paths, counts and input hashes
+family.yaml	515	ed1aa1b6f04846d76f4f2e69c64364fef8a887a6357d74cefec7229b8be7e8b9	coexist-gl case configuration
+gene_tree.nwk	27558	95b0594581df4365c3974e3f9a1ec573af673c7213a21e28c621436f2cf1d5ff	first ALE-relabeled UFBoot gene tree carrying the retained tip set
+genes.tsv	24961	23f059d182931e15a52cd1c394793750917bd087dc35f0562ab59869840a9651	exact retained gene-to-host mapping
+species_tree.nwk	16620	8d022f305c8b12d4737b242e325852684b459ce735e3c8acd017a45dfc87d461	exact GTDB r226 pruned species tree used by ALE

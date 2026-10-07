@@ -1,0 +1,32 @@
+{
+  "model": "coexistence_aware_collapsed_dt_gain_loss",
+  "branch_length_policy": "unit",
+  "null": {
+    "r": 1.0,
+    "A": 0.6022505683274703,
+    "normalized_G": 0.6022505683274703,
+    "normalized_L": 1.0,
+    "log_likelihood": -123.1045638019683
+  },
+  "free": {
+    "r": 33.616536185716434,
+    "A": 0.0789350133373833,
+    "normalized_G": 0.0789350133373833,
+    "normalized_L": 1.0,
+    "log_likelihood": -82.47279672476422
+  },
+  "delta_log_likelihood": 40.631767077204074,
+  "lrt_statistic": 81.26353415440815,
+  "p_persistence_one_sided": 9.876906217678398e-20,
+  "r_profile_low": 19.81844833211058,
+  "r_profile_high": 64.42743269600852,
+  "status": "COEXIST_PERSISTENCE_SUPPORTED",
+  "expected_macro_edge_transitions": {
+    "expected_S_to_S": 325.9229178029206,
+    "expected_S_to_C_gain": 11.157276376790607,
+    "expected_C_to_S_resolution": 15.696100955774957,
+    "expected_C_to_C_persistence": 99.22370486451368,
+    "expected_changed_edges": 26.853377332565564,
+    "expected_total_edges": 451.9999999999999
+  }
+}

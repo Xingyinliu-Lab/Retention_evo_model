@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "source_model": "frozen composition-corrected ARD_unrestricted",
+  "trees": 6,
+  "tree_branch_sets": 12,
+  "new_model_fitted": false,
+  "root_prior": "stationary(Q)",
+  "maximum_log_likelihood_reproduction_error": 3.5017805544157454e-07,
+  "uncertainty": "fixed-Q stochastic-history posterior moments; normal/delta 95% approximation",
+  "parameter_uncertainty_included": false,
+  "tree_topology_uncertainty_in_interval": false,
+  "identifiability_rule": "boundary_saturated if max rate >= 0.99*exp(10); high_turnover if expected transitions per branch > 1; otherwise stable"
+}

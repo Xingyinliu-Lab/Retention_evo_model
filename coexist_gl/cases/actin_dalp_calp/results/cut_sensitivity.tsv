@@ -1,0 +1,2 @@
+family_id	species_cut_id	n_blocks	null_r	null_A	null_kappa	free_A	free_r	free_kappa	null_logL	free_logL	delta_logL	LRT_stat	p_persistence_one_sided	interpretation_scope
+actin_current584	full	461	1.0	0.5951853942521402	NA	0.04314541044967364	60.79060490760361	NA	-249.0791770800797	-118.22261191720693	130.85656516287276	261.7131303257455	3.631359703431803e-59	primary_full_species_tree
