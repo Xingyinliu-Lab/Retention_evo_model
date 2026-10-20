@@ -1,0 +1,30 @@
+og_id	evidence_class	functional_label	broad_category	n_host_MAG	n_A_only_MAG	n_AB_coexist_MAG	n_B_only_MAG	n_coexist_phyla	coexist_gl_status	eggnog_name	pfam_best_domain
+OG0000355	supported	Purine nucleoside phosphorylase	Metabolism	516	131	220	165	83	COEXIST_PERSISTENCE_SUPPORTED	punA	Phosphorylase superfamily
+OG0000374	strong	DsbD/CcdA cytochrome-c biogenesis protein	Membrane/transport	498	180	124	194	63	COEXIST_OBSERVED_NULL_BOUNDARY	dsbD	Cytochrome C biogenesis protein transmembrane domain
+OG0000388	strong	KDO cytidylyltransferase KdsB	Cell envelope	424	59	169	196	86	COEXIST_PERSISTENCE_SUPPORTED	kdsB	Cytidylyltransferase
+OG0000402	supported	NADH dehydrogenase subunit NuoH	Energy/redox	433	111	190	132	88	COEXIST_PERSISTENCE_SUPPORTED	nuoH	NADH dehydrogenase
+OG0000424	supported	Rubrerythrin	Energy/redox	373	112	132	129	55	COEXIST_PERSISTENCE_SUPPORTED	rbr	VIT family
+OG0000425	supported	Diaminopimelate decarboxylase LysA	Metabolism	491	30	141	320	62	COEXIST_PERSISTENCE_SUPPORTED	lysA	Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+OG0000437	supported	Glycine-cleavage H protein	Metabolism	483	42	90	351	43	COEXIST_OBSERVED_NULL_BOUNDARY	gcvH	GCVT N-terminal domain
+OG0000445	strong	PemK/MazF-family toxin	Defense/regulation	274	59	102	113	52	COEXIST_OBSERVED_NULL_BOUNDARY	ndoA	PemK-like, MazF-like toxin of type II toxin-antitoxin system
+OG0000457	strong	UDP-GlcNAc 2-epimerase WecB	Cell envelope	410	105	140	165	64	COEXIST_OBSERVED_NULL_BOUNDARY	wecB	UDP-N-acetylglucosamine 2-epimerase
+OG0000503	strong	PhoH-like ATPase	Stress/regulation	487	57	130	300	57	COEXIST_PERSISTENCE_SUPPORTED	phoH	PhoH-like protein
+OG0000528	supported	NirD/AsnC-related family	Metabolism	317	83	130	104	54	COEXIST_OBSERVED_NULL_BOUNDARY	nirD	AMP-binding enzyme
+OG0000581	supported	HNH endonuclease-related protein	Genome maintenance	324	71	69	184	38	COEXIST_PERSISTENCE_SUPPORTED	mcrA	RRXRR protein
+OG0000588	supported	S49-family peptidase SppA	Protein processing	419	93	104	222	58	COEXIST_PERSISTENCE_SUPPORTED	sppA	Peptidase family S49
+OG0000683	supported	Succinyl-CoA synthetase subunit	Metabolism	404	52	97	255	55	COEXIST_OBSERVED_NULL_BOUNDARY	sucD	ATP citrate lyase citrate-binding
+OG0000749	strong	HPr serine kinase/phosphorylase	Signal regulation	324	76	98	150	67	COEXIST_OBSERVED_NULL_BOUNDARY	hprK	HPr Serine kinase C-terminal domain
+OG0000762	supported	LemA-family membrane protein	Membrane/transport	376	112	79	185	52	COEXIST_OBSERVED_NULL_BOUNDARY	lemA	LemA family
+OG0000833	supported	Heptose-pathway isomerase GmhA	Cell envelope	377	36	75	266	50	COEXIST_PERSISTENCE_SUPPORTED	gmhA	Glycosyl transferases group 1
+OG0000867	supported	Alanine dehydrogenase/PNT family	Metabolism	333	74	84	175	42	COEXIST_OBSERVED_NULL_BOUNDARY	ald	Alanine dehydrogenase/PNT, C-terminal domain
+OG0000871	supported	DUF72 protein	Uncharacterized	299	86	89	124	41	COEXIST_PERSISTENCE_SUPPORTED	yecE	Protein of unknown function DUF72
+OG0000910	supported	Formiminotransferase-cyclodeaminase	Metabolism	294	68	95	131	30	COEXIST_PERSISTENCE_SUPPORTED	ftcD	Formiminotransferase domain, N-terminal subdomain
+OG0000915	supported	Glucosamine-6-phosphate isomerase NagB	Metabolism	269	96	82	91	45	COEXIST_OBSERVED_NULL_BOUNDARY	nagB	Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase
+OG0000919	strong	Nickel-dependent hydrogenase	Energy/redox	261	88	84	89	42	COEXIST_OBSERVED_NULL_BOUNDARY	hoxH	Nickel-dependent hydrogenase
+OG0000950	supported	U32-family peptidase	Protein processing	233	48	109	76	41	COEXIST_PERSISTENCE_SUPPORTED	ydcP	Peptidase family U32
+OG0000992	strong	Gamma-glutamyltranspeptidase	Metabolism	231	95	65	71	35	COEXIST_OBSERVED_NULL_BOUNDARY	ggt	Gamma-glutamyltranspeptidase
+OG0001302	supported	Adenosine/AMP deaminase	Metabolism	188	66	50	72	27	COEXIST_OBSERVED_NULL_BOUNDARY	add	Adenosine deaminase
+OG0001411	strong	Phosphoribosyltransferase-domain protein	Metabolism	157	21	52	84	28	COEXIST_PERSISTENCE_SUPPORTED	minD	Phosphoribosyl transferase domain
+OG0001462	strong	UPF0251/DUF134 protein	Uncharacterized	176	77	22	77	15	COEXIST_OBSERVED_NULL_BOUNDARY		Protein of unknown function  DUF134
+OG0001641	supported	Pyruvate phosphate dikinase	Metabolism	127	24	26	77	22	COEXIST_OBSERVED_NULL_BOUNDARY	ppsA	Pyruvate phosphate dikinase, AMP/ATP-binding domain
+OG0001757	strong	DsrC-like sulfur-metabolism protein	Energy/redox	104	21	32	51	18	COEXIST_OBSERVED_NULL_BOUNDARY	dsrC	DsrC like protein

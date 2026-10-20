@@ -1,0 +1,34 @@
+og_id	evidence_class	state	n_hosts
+OG0000374	strong	A-only	180
+OG0000374	strong	A+B coexist	124
+OG0000374	strong	B-only	194
+OG0000388	strong	A-only	59
+OG0000388	strong	A+B coexist	169
+OG0000388	strong	B-only	196
+OG0000445	strong	A-only	59
+OG0000445	strong	A+B coexist	102
+OG0000445	strong	B-only	113
+OG0000457	strong	A-only	105
+OG0000457	strong	A+B coexist	140
+OG0000457	strong	B-only	165
+OG0000503	strong	A-only	57
+OG0000503	strong	A+B coexist	130
+OG0000503	strong	B-only	300
+OG0000749	strong	A-only	76
+OG0000749	strong	A+B coexist	98
+OG0000749	strong	B-only	150
+OG0000919	strong	A-only	88
+OG0000919	strong	A+B coexist	84
+OG0000919	strong	B-only	89
+OG0000992	strong	A-only	95
+OG0000992	strong	A+B coexist	65
+OG0000992	strong	B-only	71
+OG0001411	strong	A-only	21
+OG0001411	strong	A+B coexist	52
+OG0001411	strong	B-only	84
+OG0001462	strong	A-only	77
+OG0001462	strong	A+B coexist	22
+OG0001462	strong	B-only	77
+OG0001757	strong	A-only	21
+OG0001757	strong	A+B coexist	32
+OG0001757	strong	B-only	51
